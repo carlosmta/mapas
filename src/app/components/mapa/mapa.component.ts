@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { InfoWindowManager } from '@agm/core';
 
 @Component({
   selector: 'app-mapa',
